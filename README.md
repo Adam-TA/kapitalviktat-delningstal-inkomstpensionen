@@ -1,3 +1,7 @@
+# To-do
+- Klistra in screenshots eller så på pensionsbehållningen som lönesimuleringen peggats mot, samt lägg in formeln för beräkning av fördelningens medel och varians. Tycker spridningen är för stor nu, kan behövas ett intercept för att höja lägstanivån
+
+
 # Kapitalviktat delningstal i inkomstpensionen
 
 Repot innehåller analys, kod och underlag som används i projektet om **kapitalviktat delningstal i inkomstpensionen**. Repo:t kompletterar en separat rapport (PDF) och innehåller all nödvändig data och beräkningskod för att replikera resultaten.
