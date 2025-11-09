@@ -1,5 +1,7 @@
 # To-do
 - Klistra in screenshots eller så på pensionsbehållningen som lönesimuleringen peggats mot, samt lägg in formeln för beräkning av fördelningens medel och varians. Tycker spridningen är för stor nu, kan behövas ett intercept för att höja lägstanivån
+- Hade sannolikt kunna bli snyggare att göra allt i Notebook, blir en intial kostnad i att lära sig formatera grafer och tabeller men efter det mycket smidigare
+- Kanske kan ta en kurs om det på arbetstid, lär dyka upp behov igenom likt med dödligheten...
 
 
 # Kapitalviktat delningstal i inkomstpensionen
