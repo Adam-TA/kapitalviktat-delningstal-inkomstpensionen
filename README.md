@@ -1,4 +1,6 @@
-Nästa steg: Kör fram alternativa antaganden och lägg in i rapporten, testa jobba hemifrån denna gång
+Nästa steg: Läsa igenom rapporten som pdf och kommentera, sen snygga till och ta fram färdigt utkast 
+
+
 
 # To-do
 - Klistra in screenshots eller så på pensionsbehållningen som lönesimuleringen peggats mot, samt lägg in formeln för beräkning av fördelningens medel och varians. Tycker spridningen är för stor nu, kan behövas ett intercept för att höja lägstanivån
@@ -6,6 +8,7 @@ Nästa steg: Kör fram alternativa antaganden och lägg in i rapporten, testa jo
 - Kanske kan ta en kurs om det på arbetstid, lär dyka upp behov igenom likt med dödligheten...
 - Förtydliga denna formel i rapporten: ((1 + avk_ranta - franta)**( df_final['ExpYL'].apply(floor)) - 1) / (avk_ranta - franta) +  
                                         (df_final['ExpYL'] - df_final['ExpYL'].apply(floor))*(1 + avk_ranta - franta)**df_final['ExpYL']
+- Se över lönerna, inte rimligt att kvinnorna skiljer så mycket?
 
 
 # Kapitalviktat delningstal i inkomstpensionen
