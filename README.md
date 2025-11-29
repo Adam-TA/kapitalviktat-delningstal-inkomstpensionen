@@ -1,4 +1,17 @@
-Nästa steg: Läsa igenom rapporten som pdf och kommentera, sen snygga till och ta fram färdigt utkast 
+### Preliminär innehållsförteckning
+- [ ] Abstract
+- [x] Innehållsförteckning
+- [x] Bakgrund, syfte
+- [ ] Ordlista
+- [ ] Inkomstpension
+- [ ] Ekonomisk dödlighet
+- [ ] Metod, data
+- [ ] Analys, variabler
+- [ ] Scenarion
+- [ ] Resultat
+- [ ] Diskussion
+- [ ] Appendix
+
 
 
 
