@@ -2,11 +2,11 @@
 - [ ] Abstract
 - [x] Innehållsförteckning
 - [x] Bakgrund, syfte
-- [ ] Ordlista
+- [x] Ordlista
 - [x] Inkomstpension
 - [x] Ekonomisk dödlighet
 - [x] Metod, data
-- [ ] Analys, variabler
+- [x] Analys, variabler
 - [ ] Scenarion
 - [ ] Resultat
 - [ ] Diskussion
@@ -16,6 +16,7 @@
 
 
 # To-do
+- Det vore elgant att slippa skala om, så en formel i stil med D' = D + (v0 - mean(v0)) / std(v0)
 - Klistra in screenshots eller så på pensionsbehållningen som lönesimuleringen peggats mot, samt lägg in formeln för beräkning av fördelningens medel och varians. Tycker spridningen är för stor nu, kan behövas ett intercept för att höja lägstanivån
 - Hade sannolikt kunna bli snyggare att göra allt i Notebook, blir en intial kostnad i att lära sig formatera grafer och tabeller men efter det mycket smidigare
 - Kanske kan ta en kurs om det på arbetstid, lär dyka upp behov igenom likt med dödligheten...
