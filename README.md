@@ -3,9 +3,9 @@
 - [x] Innehållsförteckning
 - [x] Bakgrund, syfte
 - [ ] Ordlista
-- [ ] Inkomstpension
-- [ ] Ekonomisk dödlighet
-- [ ] Metod, data
+- [x] Inkomstpension
+- [x] Ekonomisk dödlighet
+- [x] Metod, data
 - [ ] Analys, variabler
 - [ ] Scenarion
 - [ ] Resultat
