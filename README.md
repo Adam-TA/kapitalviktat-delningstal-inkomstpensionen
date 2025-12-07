@@ -7,10 +7,10 @@
 - [x] Ekonomisk dödlighet
 - [x] Metod, data
 - [x] Analys, variabler
-- [ ] Scenarion
-- [ ] Resultat
+- [x] Scenarion
+- [x] Resultat
 - [ ] Diskussion
-- [ ] Appendix
+- [x] Appendix
 
 
 
