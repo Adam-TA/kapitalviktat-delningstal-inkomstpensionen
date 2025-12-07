@@ -1,30 +1,3 @@
-### Preliminär innehållsförteckning
-- [ ] Abstract
-- [x] Innehållsförteckning
-- [x] Bakgrund, syfte
-- [x] Ordlista
-- [x] Inkomstpension
-- [x] Ekonomisk dödlighet
-- [x] Metod, data
-- [x] Analys, variabler
-- [x] Scenarion
-- [x] Resultat
-- [ ] Diskussion
-- [x] Appendix
-
-
-
-
-# To-do
-- Det vore elgant att slippa skala om, så en formel i stil med D' = D + (v0 - mean(v0)) / std(v0)
-- Klistra in screenshots eller så på pensionsbehållningen som lönesimuleringen peggats mot, samt lägg in formeln för beräkning av fördelningens medel och varians. Tycker spridningen är för stor nu, kan behövas ett intercept för att höja lägstanivån
-- Hade sannolikt kunna bli snyggare att göra allt i Notebook, blir en intial kostnad i att lära sig formatera grafer och tabeller men efter det mycket smidigare
-- Kanske kan ta en kurs om det på arbetstid, lär dyka upp behov igenom likt med dödligheten...
-- Förtydliga denna formel i rapporten: ((1 + avk_ranta - franta)**( df_final['ExpYL'].apply(floor)) - 1) / (avk_ranta - franta) +  
-                                        (df_final['ExpYL'] - df_final['ExpYL'].apply(floor))*(1 + avk_ranta - franta)**df_final['ExpYL']
-- Se över lönerna, inte rimligt att kvinnorna skiljer så mycket?
-
-
 # Kapitalviktat delningstal i inkomstpensionen
 
 Repot innehåller analys, kod och underlag som används i projektet om **kapitalviktat delningstal i inkomstpensionen**. Repo:t kompletterar en separat rapport (PDF) och innehåller all nödvändig data och beräkningskod för att replikera resultaten.
@@ -50,3 +23,23 @@ Projektet undersöker:
 - det kapitalviktade delningstalets skillnader mot nuvarande metod för delningstal
 
 
+### Preliminär innehållsförteckning
+- [x] Abstract
+- [x] Innehållsförteckning
+- [x] Bakgrund, syfte
+- [x] Ordlista
+- [x] Inkomstpension
+- [x] Ekonomisk dödlighet
+- [x] Metod, data
+- [x] Analys, variabler
+- [x] Scenarion
+- [x] Resultat
+- [x] Diskussion
+- [x] Appendix
+
+# To-do
+- Det vore elgant att slippa skala om, så en formel i stil med D' = D + (v0 - mean(v0)) / std(v0)
+- Klistra in screenshots eller så på pensionsbehållningen som lönesimuleringen peggats mot, samt lägg in formeln för beräkning av fördelningens medel och varians. Tycker spridningen är för stor nu, kan behövas ett intercept för att höja lägstanivån
+- Förtydliga denna formel: ((1 + avk_ranta - franta)**( df_final['ExpYL'].apply(floor)) - 1) / (avk_ranta - franta) +  
+                                        (df_final['ExpYL'] - df_final['ExpYL'].apply(floor))*(1 + avk_ranta - franta)**df_final['ExpYL']
+- Se över lönerna, inte rimligt att kvinnorna skiljer så mycket?
